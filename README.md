@@ -1,0 +1,1 @@
+# Klasifikasi-Citra-Tumor-dengan-Metode-Naive-Bayes
